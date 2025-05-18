@@ -1,0 +1,3 @@
+"# My Truss Analysis App" 
+numpy
+matplotlib
